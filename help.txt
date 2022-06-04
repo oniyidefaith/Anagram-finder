@@ -1,0 +1,2 @@
+basic python function usage 
+check w3schools.com for tutorials 
